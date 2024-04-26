@@ -4,7 +4,7 @@ use lib '..';
 use CGI qw(:standard);
 use CGI::Carp qw/fatalsToBrowser/;
 
-$fileroot ="/home/yvo/public_html/patat/db/";
+$fileroot ="/path/to/db/";
 $userdir = $fileroot."users/";
 $globaldir = $fileroot."global/";
 

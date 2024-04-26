@@ -5,7 +5,7 @@ use CGI qw(:standard);
 use CGI::Carp qw/fatalsToBrowser/;
 
 
-$fileroot ="/home/yvo/public_html/patat/db/";
+$fileroot ="/path/to/db/";
 $userdir = $fileroot."users/";
 $globaldir = $fileroot."global/";
 
@@ -101,7 +101,7 @@ printf "%-52s %.2f\n", "Totaal:" , $totaalprijs;
 print "</pre>";
 
 #Snel de printerfriendly pagina maken voordat iemand er op klikt!
-open FROP, "> /home/yvo/public_html/patat/printerfriendly.txt" or die "$!";
+open FROP, "> /path/to/printerfriendly.txt" or die "$!";
 
 print FROP "Bestellingen van ". localtime(time) . "\n\n";
 

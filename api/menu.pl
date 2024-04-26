@@ -5,7 +5,7 @@ use CGI qw(:standard);
 use CGI::Carp qw/fatalsToBrowser/;
 use JSON;
 
-$fileroot ="/home/yvo/public_html/patat/db/";
+$fileroot ="/path/to/db/";
 $userdir = $fileroot."users/";
 $globaldir = $fileroot."global/";
 

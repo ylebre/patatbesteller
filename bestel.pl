@@ -5,7 +5,7 @@ use CGI qw(:standard);
 use CGI::Carp qw/fatalsToBrowser/;
 use Mail::Mailer;
 
-$fileroot ="/home/yvo/public_html/patat/db/";
+$fileroot ="/path/to/db/";
 $userdir = $fileroot."users/";
 $globaldir = $fileroot."global/";
 
@@ -32,7 +32,7 @@ sub notify {
            Subject    => "Patat geopend op $hour:$min door $not_user"
        }
      );
-   print $mailer "http://patat.muze.nl/\n";
+   print $mailer "http://patat.example.com/\n";
    $mailer->close();
 }
 

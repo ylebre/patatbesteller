@@ -6,7 +6,7 @@ use CGI::Carp qw/fatalsToBrowser/;
 use Mail::Mailer;
 use JSON;
 
-$fileroot ="/home/yvo/public_html/patat/db/";
+$fileroot ="/path/to/db/";
 $userdir = $fileroot."users/";
 $globaldir = $fileroot."global/";
 

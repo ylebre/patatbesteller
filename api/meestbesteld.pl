@@ -8,7 +8,7 @@ use CGI::Carp qw/fatalsToBrowser/;
 use JSON;
 use Time::Local;
 
-my $fileroot ="/home/yvo/public_html/patat/db/";
+my $fileroot ="/path/to/db/";
 my $userdir = $fileroot."users/";
 my $globaldir = $fileroot."global/";
 
@@ -34,7 +34,6 @@ opendir (DIR, $fileroot) or die "Can't open directory $!";
 my %entries;
 
 my $user = param('user');
-#$user = "yvo";
 
 my @meest;
 my @laatst;
