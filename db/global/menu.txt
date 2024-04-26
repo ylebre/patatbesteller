@@ -1,0 +1,115 @@
+1:Patat zonder:1,75:
+2:Patat mayonaise:2,00:
+3:Portie patat zonder:2,00:
+4:Portie patat mayonaise:2,25:
+5:Portie patat speciaal:2,75:
+6:Portie patat oorlog:2,75:
+7:Portie patat Chaplin speciaal:3,50:
+8:Mosterd:0,25:
+9:Mayonaise:0,25:
+10:Curry:0,50:
+11:Ketchup:0,50:
+12:Pindasaus:0,50:
+13:Knoflooksaus:0,50:
+14:Chilisaus:0,50:
+15:Frikandel:1,25:
+16:Vleeskroket:1,25:
+17:Bamischijf:1,25:
+18:Nasischijf:1,00:
+19:Kaassoufle:1,50:
+20:Kalfskroket:1,50:
+21:Goulashkroket:1,50:
+22:Frikandel speciaal:2,00:
+23:Pikanto:2,00:
+24:Kipcorn:2,00:
+25:Mexicano:2,00:
+26:Knakworst:1,75:
+27:Braadworst:2,00:
+29:Berehap:2,00:
+30:Gehaktbal:2,25:
+31:Portie bitterballen:2,50:6 stuks
+32:Portie vlammetjes:2,50:6 stuks
+33:Braadworst speciaal:2,75:
+34:Loempia:2,50:
+35:Slaatje:2,50:
+36:Portie sate:4,00:
+37:Broodje frikandel:1,75:
+38:Broodje kroket:1,75:
+39:Broodje hamburger:2,25:
+40:Broodje visburger:2,25:
+41:Broodje cheeseburger:2,75:
+42:Broodje kipburger:3,00:
+43:Broodje shoarmaburger:2,25:
+44:Broodje bapao:2,25:
+45:Broodje braadworst:2,50:
+46:Broodje mexicano:2,50:
+47:Broodje knakworst:2,25:
+48:Broodje hamburger speciaal:2,50:
+49:Broodje frikandel speciaal:2,50:
+50:Broodje gehaktbal:2,75:
+51:Broodje hamburger groot:3,25:
+52:Broodje Chaplinburger groot:4,00:Ui, paprika, champignons, salade en knoflooksaus
+53:Broodje kaas klein:2,00:
+54:Broodje kaas groot:3,00:
+55:Broodje ham klein:2,00:
+56:Broodje ham groot:3,00:
+57:Broodje ei klein:2,00:
+58:Broodje ei groot:3,00:
+59:Broodje gebakken ei klein:2,00:
+60:Broodje gebakken ei groot:3,00:
+61:Tostie kaas klein:2,00:
+62:Tostie kaas groot:3,00:
+63:Broodje gezond klein:2,50:
+64:Broodje gezond groot:3,50:
+65:Broodje gebakken ei met ham en kaas klein:2,50:
+66:Broodje gebakken ei met ham en kaas groot:3,50:
+67:Tostie speciaal:3,50:
+68:Berehap pinda:2,50:
+69:Patat pinda:2,25:
+70:Broodje doner kebab:4,00:met salade, uitjes en tzaziki of knoflooksaus
+71:Broodje doner kebab groot:6,00:met salade, uitjes en tzaziki of knoflooksaus
+72:Turkse pizza met gekruid lamsgehakt met knoflooksaus:3,00:met salade, uitjes en tzaziki of knoflooksaus
+73:Turkse pizza speciaal met knoflooksaus:6,00:met Doner, salade en tzaziki of knoflooksaus
+74:Doner kebab met patat:9,00:salade en tzaziki of knoflooksaus
+75:Portie sate met patat, salade en saus
+76:Turkse pizza met knoflooksaus, zonder komkommer en zonder tomaat:3,00:
+77:Turkse pizza speciaal met tzazikisaus:6,00:met Doner, salade en tzaziki of knoflooksaus
+78:Turkse pizza met gekruid lamsgehakt met tzazikisaus:3,00:met salade, uitjes en tzaziki of knoflooksaus
+79:Braadworst speciaal:2,50:
+80:Pikanto pinda:2,50:
+81:Patat mayonaise curry:2,50:
+82:Portie patat Chaplin oorlog:3,50:
+83:Frikandel oorlog:1,75:
+84:Broodje braadworst speciaal:2,75:
+85:Joppie saus:0,50:
+86:Whiskey saus:0,50:
+87:Broodje falaFel:4,00:
+88:Broodje kaassouffle:1,75:
+89:Broodje gebakken ei groot zonder vlees:3,00:
+90:Broodje gezond groot met knoflooksaus :3,50:
+91:Broodje gebakken ei klein (met alles -inc saus-) zonder vlees:2,00:
+92:Broodje gezond klein zonder vlees:2,50:
+93:Broodje gezond groot met kaas zonder vlees:3,50:
+94:Broodje gezond groot zonder komkommer :3,50:
+95:Mexicano:2,00:
+96:Gehaktbal:2,50:
+97:van Dobben kroket:2,00:
+98:Kipkorn:2,00:
+99:Tosti ham:2,50:
+100:Tosti ham+kaas:3,00:
+101:Tosti kaas+salami:3,00:
+102:Tosti hawai ham+kaas+ananas:3,50:
+103:Uitsmijter ham:5,00:
+104:Uitsmijter kaas:5,00:
+105:Uitsmijter rosbief:6,00:
+106:Uitsmijter chaplin:7,50:
+107:Falafel Durum:4,00:
+108:Falafel Durum Groot:6,00:
+109:Doner Durum:4,00:
+110:Doner Durum Groot:6,00:
+111:Patat Kapsalon Klein :5,50:
+112:Patat Kapsalon Groot :7,50:
+113:Salade Caprese:5,00:
+114:Chaplinsalade:6,00:
+115:Tonijnsalade:5,50:
+116:Kipsalde:6,00:
