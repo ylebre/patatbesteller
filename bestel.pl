@@ -27,9 +27,9 @@ sub notify {
    my $mailer = Mail::Mailer->new("sendmail");
    $mailer->open(
        {
-           From       => 'patat@muze.nl',
-           To         => 'multigate@dnd.utwente.nl',
-           Subject    => "!msg muzepatat Patat geopend op $hour:$min door $not_user"
+           From       => 'patat@example.com',
+           To         => 'patat-list@example.com',
+           Subject    => "Patat geopend op $hour:$min door $not_user"
        }
      );
    print $mailer "http://patat.muze.nl/\n";
